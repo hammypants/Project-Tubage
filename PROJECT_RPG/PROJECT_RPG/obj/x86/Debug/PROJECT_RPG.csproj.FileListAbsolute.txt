@@ -209,3 +209,7 @@ C:\Documents and Settings\Ben\My Documents\Visual Studio 2010\Projects\Project_R
 C:\Documents and Settings\Ben\My Documents\Visual Studio 2010\Projects\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\cement.xnb
 C:\Documents and Settings\Ben\My Documents\Visual Studio 2010\Projects\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\tile.xnb
 C:\Documents and Settings\Ben\My Documents\Visual Studio 2010\Projects\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\wood.xnb
+C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\obj\x86\Debug\PROJECT_RPG.exe
+C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\obj\x86\Debug\PROJECT_RPG.pdb
