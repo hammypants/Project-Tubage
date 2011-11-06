@@ -7,8 +7,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>FontTextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\ct_font_alpha3.xnb</Output>
       <Time>2011-11-01T03:10:31.9675498-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\ct_font_alpha3.xnb</Output>
+      <Time>2011-10-24T20:09:04.59375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>blank.png</Source>
@@ -16,8 +21,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\blank.xnb</Output>
       <Time>2011-11-01T03:10:31.9585492-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2011-10-24T20:09:04.578125-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>font.bmp</Source>
@@ -25,8 +35,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>FontTextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\font.xnb</Output>
       <Time>2011-11-01T03:10:31.9845507-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2011-10-24T20:09:04.59375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>TESTMAP3.bmp</Source>
@@ -34,8 +49,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\TESTMAP3.xnb</Output>
       <Time>2011-11-01T03:10:31.9555491-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\TESTMAP3.xnb</Output>
+      <Time>2011-10-24T20:09:04.578125-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>cats.png</Source>
@@ -43,8 +63,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\cats.xnb</Output>
       <Time>2011-11-01T03:10:31.9595493-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\cats.xnb</Output>
+      <Time>2011-10-24T20:09:04.578125-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tiles\botleft_space.dds</Source>
@@ -52,8 +77,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\botleft_space.xnb</Output>
       <Time>2011-11-01T03:10:32.0015517-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\botleft_space.xnb</Output>
+      <Time>2011-10-24T20:09:04.609375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tiles\botright_space.dds</Source>
@@ -61,8 +91,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\botright_space.xnb</Output>
       <Time>2011-11-01T03:10:32.0185527-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\botright_space.xnb</Output>
+      <Time>2011-10-24T20:09:04.609375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tiles\bot_space.dds</Source>
@@ -70,8 +105,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\bot_space.xnb</Output>
       <Time>2011-11-01T03:10:32.0015517-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\bot_space.xnb</Output>
+      <Time>2011-10-24T20:09:04.609375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tiles\floor_space.dds</Source>
@@ -79,8 +119,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\floor_space.xnb</Output>
       <Time>2011-11-01T03:10:32.0195527-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\floor_space.xnb</Output>
+      <Time>2011-10-24T20:09:04.609375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tiles\left_space.dds</Source>
@@ -88,8 +133,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\left_space.xnb</Output>
       <Time>2011-11-01T03:10:32.0195527-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\left_space.xnb</Output>
+      <Time>2011-10-24T20:09:04.625-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tiles\null_space.dds</Source>
@@ -97,8 +147,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\null_space.xnb</Output>
       <Time>2011-11-01T03:10:32.0195527-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\null_space.xnb</Output>
+      <Time>2011-10-24T20:09:04.625-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tiles\right_space.dds</Source>
@@ -106,8 +161,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\right_space.xnb</Output>
       <Time>2011-11-01T03:10:32.0195527-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\right_space.xnb</Output>
+      <Time>2011-10-24T20:09:04.625-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tiles\rug_space.dds</Source>
@@ -115,8 +175,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\rug_space.xnb</Output>
       <Time>2011-11-01T03:10:32.0205528-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\rug_space.xnb</Output>
+      <Time>2011-10-24T20:09:04.625-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tiles\topleft_space.dds</Source>
@@ -124,8 +189,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\topleft_space.xnb</Output>
       <Time>2011-11-01T03:10:32.0215528-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\topleft_space.xnb</Output>
+      <Time>2011-10-24T20:09:04.625-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tiles\topright_space.dds</Source>
@@ -133,8 +203,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\topright_space.xnb</Output>
       <Time>2011-11-01T03:10:32.0215528-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\topright_space.xnb</Output>
+      <Time>2011-10-24T20:09:04.625-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tiles\top_space.dds</Source>
@@ -142,8 +217,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\top_space.xnb</Output>
       <Time>2011-11-01T03:10:32.0215528-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\top_space.xnb</Output>
+      <Time>2011-10-24T20:09:04.625-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tiles\top_space_tem.dds</Source>
@@ -151,8 +231,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\top_space_tem.xnb</Output>
       <Time>2011-11-01T03:10:32.0215528-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\top_space_tem.xnb</Output>
+      <Time>2011-10-24T20:09:04.625-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tempface.bmp</Source>
@@ -160,8 +245,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tempface.xnb</Output>
       <Time>2011-11-01T03:10:31.9995516-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tempface.xnb</Output>
+      <Time>2011-10-24T20:09:04.609375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>ct.bmp</Source>
@@ -169,8 +259,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\ct.xnb</Output>
       <Time>2011-11-01T03:10:31.9635495-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\ct.xnb</Output>
+      <Time>2011-10-24T20:09:04.59375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>ct_font.bmp</Source>
@@ -178,8 +273,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\ct_font.xnb</Output>
       <Time>2011-11-01T03:10:31.9635495-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\ct_font.xnb</Output>
+      <Time>2011-10-24T20:09:04.59375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>ct_font_alpha.bmp</Source>
@@ -187,8 +287,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\ct_font_alpha.xnb</Output>
       <Time>2011-11-01T03:10:31.9645496-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\ct_font_alpha.xnb</Output>
+      <Time>2011-10-24T20:09:04.59375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>ct_font_alpha2.bmp</Source>
@@ -196,8 +301,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\ct_font_alpha2.xnb</Output>
       <Time>2011-11-01T03:10:31.9655496-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\ct_font_alpha2.xnb</Output>
+      <Time>2011-10-24T20:09:04.59375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>TESTMAP.bmp</Source>
@@ -205,8 +315,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\TESTMAP.xnb</Output>
       <Time>2011-11-01T03:10:31.9305476-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\TESTMAP.xnb</Output>
+      <Time>2011-10-24T20:09:04.5625-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>temp_background.bmp</Source>
@@ -214,8 +329,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\temp_background.xnb</Output>
       <Time>2011-11-01T03:10:31.9985515-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\temp_background.xnb</Output>
+      <Time>2011-10-29T14:21:40.90625-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>temp_drawableentity.bmp</Source>
@@ -223,8 +343,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\temp_drawableentity.xnb</Output>
       <Time>2011-11-01T03:10:31.9985515-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\temp_drawableentity.xnb</Output>
+      <Time>2011-10-29T14:21:40.921875-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>evil_face.dds</Source>
@@ -232,8 +357,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\evil_face.xnb</Output>
       <Time>2011-11-01T03:10:31.9825506-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\evil_face.xnb</Output>
+      <Time>2011-10-29T14:21:40.875-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>bg.png</Source>
@@ -241,8 +371,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\bg.xnb</Output>
       <Time>2011-11-01T03:10:31.9575492-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\bg.xnb</Output>
+      <Time>2011-10-29T14:21:40.859375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>bill.png</Source>
@@ -250,8 +385,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\bill.xnb</Output>
       <Time>2011-11-01T03:10:31.9585492-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\bill.xnb</Output>
+      <Time>2011-10-29T14:21:40.859375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>cat_enemy.png</Source>
@@ -259,8 +399,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\cat_enemy.xnb</Output>
       <Time>2011-11-01T03:10:31.9595493-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\cat_enemy.xnb</Output>
+      <Time>2011-10-29T14:21:40.859375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>char_set.png</Source>
@@ -268,8 +413,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\char_set.xnb</Output>
       <Time>2011-11-01T03:10:31.9605494-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\char_set.xnb</Output>
+      <Time>2011-10-29T14:21:40.875-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>char_sheet.png</Source>
@@ -277,8 +427,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\char_sheet.xnb</Output>
       <Time>2011-11-01T03:10:31.9625495-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\char_sheet.xnb</Output>
+      <Time>2011-10-24T20:09:04.59375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>laptop.png</Source>
@@ -286,8 +441,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\laptop.xnb</Output>
       <Time>2011-11-01T03:10:31.9905511-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\laptop.xnb</Output>
+      <Time>2011-10-29T14:21:40.875-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>hub.png</Source>
@@ -295,8 +455,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\hub.xnb</Output>
       <Time>2011-11-01T03:10:31.988551-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\hub.xnb</Output>
+      <Time>2011-10-24T20:09:04.609375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>room.png</Source>
@@ -304,8 +469,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\room.xnb</Output>
       <Time>2011-11-01T03:10:31.9965514-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\room.xnb</Output>
+      <Time>2011-10-24T20:09:04.609375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tiles\asphalt.png</Source>
@@ -313,8 +483,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\asphalt.xnb</Output>
       <Time>2011-11-01T03:10:32.0005516-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\asphalt.xnb</Output>
+      <Time>2011-10-29T14:21:40.921875-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tiles\cement.png</Source>
@@ -322,8 +497,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\cement.xnb</Output>
       <Time>2011-11-01T03:10:32.0185527-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\cement.xnb</Output>
+      <Time>2011-10-29T14:21:40.921875-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tiles\tile.png</Source>
@@ -331,8 +511,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\tile.xnb</Output>
       <Time>2011-11-01T03:10:32.0205528-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\tile.xnb</Output>
+      <Time>2011-10-29T14:21:40.921875-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>tiles\wood.png</Source>
@@ -340,8 +525,13 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\wood.xnb</Output>
       <Time>2011-11-01T03:10:32.0225529-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\tiles\wood.xnb</Output>
+      <Time>2011-10-29T14:21:40.921875-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>defaultScreenFont.spritefont</Source>
@@ -349,8 +539,13 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\defaultScreenFont.xnb</Output>
       <Time>2011-11-01T03:10:31.9685498-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\defaultScreenFont.xnb</Output>
+      <Time>2011-10-24T20:09:04.59375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <Item>
       <Source>ffvii-messagesent.wav</Source>
@@ -358,8 +553,13 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
+<<<<<<< HEAD
       <Output>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\ffvii-messagesent.xnb</Output>
       <Time>2011-11-01T03:10:31.9835507-04:00</Time>
+=======
+      <Output>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\ffvii-messagesent.xnb</Output>
+      <Time>2011-10-24T20:09:04.59375-04:00</Time>
+>>>>>>> upstream/master
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -367,10 +567,17 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
+<<<<<<< HEAD
       <RootDirectory>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPGContent\</RootDirectory>
       <LoggerRootDirectory>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\</LoggerRootDirectory>
       <IntermediateDirectory>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPGContent\obj\x86\Debug\</IntermediateDirectory>
       <OutputDirectory>C:\Users\Cory\Documents\Visual Studio 2010\Projects\GitProjects\Project-Tubage\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\</OutputDirectory>
+=======
+      <RootDirectory>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPGContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPGContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ben\Documents\Project_RPG\PROJECT_RPG\PROJECT_RPG\bin\x86\Debug\Content\</OutputDirectory>
+>>>>>>> upstream/master
     </Settings>
     <Assemblies>
       <Assembly>
@@ -399,7 +606,11 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+<<<<<<< HEAD
         <Value>2011-03-30T00:25:34.2450346-04:00</Value>
+=======
+        <Value>2011-11-05T09:05:07.4384422-04:00</Value>
+>>>>>>> upstream/master
       </Assembly>
     </Assemblies>
   </Asset>
